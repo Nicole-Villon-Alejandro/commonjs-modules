@@ -11,4 +11,6 @@ fullName()
 const hobbies = require("./hobbies.js")
 hobbies()
 
-function 
+function myContent (){
+
+}
