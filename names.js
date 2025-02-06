@@ -1,3 +1,4 @@
+
 /*1. Crea una funzione che accetta due parametri: firstName, lastName. La funzione dovrebbe restituire un oggetto con le proprietà firstName e lastName.
 2. Esporta la funzione dal file.*/
 
@@ -26,3 +27,6 @@ function fullName(firstName, lastName){
 
 // esportiamo solo la funzione fullName
 module.exports = fullName;
+
+
+
