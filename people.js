@@ -7,3 +7,8 @@
 const fullName = require("./names.js");
 
 fullName()
+
+const hobbies = require("./hobbies.js")
+hobbies()
+
+function 
