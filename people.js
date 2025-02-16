@@ -6,11 +6,16 @@
 
 const fullName = require("./names.js");
 
-fullName()
+
 
 const hobbies = require("./hobbies.js")
-hobbies()
 
-function myContent (){
+
+function myContent () {
+    return {
+        fullName: fullName,
+        hobbies: hobbyOne, hobbyTwo, hobbyThree
+    }
+    
 
 }
